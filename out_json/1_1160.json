@@ -1,0 +1,30 @@
+{
+    "version": "TThoai",
+    "flags": {},
+    "shapes": [{
+        "label": "lpn",
+        "points": [
+            [124, 252],
+            [163, 251],
+            [165, 286],
+            [126, 286]
+        ],
+        "group_id": null,
+        "shape_type": "polygon",
+        "flags": {}
+    }, {
+        "label": "lpn",
+        "points": [
+            [453, 231],
+            [491, 230],
+            [492, 259],
+            [455, 262]
+        ],
+        "group_id": null,
+        "shape_type": "polygon",
+        "flags": {}
+    }],
+    "imagePath": "1_1160.jpg",
+    "imageHeight": 360,
+    "imageWidth": 640
+}
